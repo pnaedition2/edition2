@@ -38,6 +38,4 @@ def checkloopback45(ip,interface):
 
                 
 
-
-
 checkloopback45("192.168.20.1","Loopback45")
